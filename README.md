@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Tiago Dantas</h1>
 <h3 align="center">A Beginner Level Web Developer, focused on always going to the next level to overcome challenges</h3>
-<p align="left"> <img src="https://img.shields.io/badge/Profile%20views-Tiago%20Dantas-orange" alt="tiagodantas16" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Profile%20views-Tiago%20Dantas-blue" alt="tiagodantas16" /> </p>
 
 - 🔭 I’m currently working on [Flex Bpo - do Grupo Connvert](https://www.flexbpo.com.br/)
 
