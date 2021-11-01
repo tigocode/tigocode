@@ -28,6 +28,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript-icon" height="50" width="60"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
   </div>
   
+  
 ### :computer: Back-End Development
 <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript-icon" height="50" width="60"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
@@ -36,6 +37,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank"> <img align="center" alt="Typescript-icon" height="50" width="60"      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img align="center" alt="Postgresql-icon" height="50" width="60"      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"> </a>
 </div>
+
 
 ### :computer: Workspace Setup
 <div>
