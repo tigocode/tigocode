@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://img.shields.io/badge/Profile%20views-Tiago%20Dantas-blue" alt="tiagodantas16" /> </p>
 
 [![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](https://github.com/tiagodantas16)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tiago.dantas16)
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/tiago-pereira-dantas-b2a541134)
 
 - 🔭 I’m currently working on [Flex Bpo - do Grupo Connvert](https://www.flexbpo.com.br/)
