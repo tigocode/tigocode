@@ -11,7 +11,7 @@
 
 - 💬 learning about **JavaScript, HTML, CSS, Nodejs, Reactjs, React Native, SQL**
 
-- 📫 How to reach me **tiago.dantas@mylentes.com.br**
+- 📫 How to reach me **tiago.dantas16@live.com**
 
 - ⚡ Fun fact **Oneye 😜**
 
