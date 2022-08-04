@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Flex Bpo - do Grupo Connvert](https://www.flexbpo.com.br/)
 
-- 👨‍💻 All of my projects are available at [devtiago.com.br](https://github.com/tiagodantas16)
+- 👨‍💻 All of my projects are available at [tigocode.com.br](https://tigocode.com.br)
 
 - 💬 learning about **JavaScript, HTML, CSS, Nodejs, Reactjs, React Native, SQL**
 
-- 📫 How to reach me **tiago.dantas16@live.com**
+- 📫 How to reach me **TDantas@tigocode.com.br**
 
 - ⚡ Fun fact **Oneye 😜**
 
