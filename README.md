@@ -16,8 +16,8 @@
 - ⚡ Fun fact **Oneye 😜**
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiagodantas16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22"/>  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodantas16&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tigocode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22"/>  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigocode&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### :computer: Current languages and tools
