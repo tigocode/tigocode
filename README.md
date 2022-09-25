@@ -2,7 +2,7 @@
 <h3 align="center">A Beginner Level Web Developer, focused on always going to the next level to overcome challenges</h3>
 <p align="left"> <img src="https://img.shields.io/badge/Profile%20views-Tiago%20Dantas-blue" alt="tiagodantas16" /> </p>
 
-[![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](https://github.com/tiagodantas16)
+[![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](https://github.com/tigocode)
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/tiago-pereira-dantas-b2a541134)
 
 - 🔭 I’m currently working on [Flex Bpo - do Grupo Connvert](https://www.flexbpo.com.br/)
