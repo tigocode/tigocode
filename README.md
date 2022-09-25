@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Flex Bpo - do Grupo Connvert](https://www.flexbpo.com.br/)
 
-- 👨‍💻 All of my projects are available at [tigocode.com.br](https://github.com/tiagodantas16)
+- 👨‍💻 All of my projects are available at [tigocode.com.br](https://github.com/tigocode)
 
 - 💬 learning about **JavaScript, HTML, CSS, Nodejs, Reactjs, React Native, SQL**
 
