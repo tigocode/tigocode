@@ -5,7 +5,7 @@
 [![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](https://github.com/tigocode)
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tigo-code/)
 
-- 🔭 I’m currently working on [Flex Bpo - do Grupo Connvert](https://www.flexbpo.com.br/)
+- 🔭 I’m currently working on [TigoCode](https://www.tigocode.com.br/)
 
 - 👨‍💻 All of my projects are available at [tigocode.com.br](https://github.com/tigocode)
 
