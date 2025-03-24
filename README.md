@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Olá! Eu sou Tiago Dantas</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! Eu sou Tiago Dantas</h1>
 <h3 align="center">Desenvolvedor web FullStack, comprometido em alcançar novos patamares e superar desafios continuamente.</h3>
 <p align="left"> <img src="https://img.shields.io/badge/Profile%20views-Tiago%20Dantas-blue" alt="tiagodantas16" /> </p>
 
