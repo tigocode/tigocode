@@ -18,30 +18,25 @@
 - ⚡ Fun fact **Oneye 😜**
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tigocode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22"/>  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigocode&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tigocode&theme=dracula&show_icons=true&hide_border=false&count_private=false" >
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=tigocode&theme=dracula&hide_border=false" >
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigocode&theme=dracula&show_icons=true&hide_border=false&layout=compact" >
 </div>
 
 ### :computer: Linguagens e Ferramentas Atuais
-  <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML5-icon" height="50" width="60"                      src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS3-icon" height="50" width="60"      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript-icon" height="50" width="60"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
-  </div>
-  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify)
+![Insomnia](https://img.shields.io/badge/Insomnia-58B7F8?style=for-the-badge&logo=insomnia&logoColor=white)
   
 ### :computer: Desenvolvimento Back-End
-<div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript-icon" height="50" width="60"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
-    <a href="https://nodejs.org/" target="_blank"> <img align="center" alt="Node.js-icon" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"> </a>
-    <a href="https://www.npmjs.com/package/express" target="_blank"> <img align="center" alt="Express.js-icon" height="50" width="60"    src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img align="center" alt="Typescript-icon" height="50" width="60"      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"> </a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img align="center" alt="Postgresql-icon" height="50" width="60"      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"> </a>
-</div>
 
-
-### :computer: Configuração do Espaço de Trabalho
-<div>
-    <a href="" target="_blank"> <img align="center" alt="Linux-icon" height="50" width="60"  src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img align="center" alt="Vscode-icon" height="50" width="60"  src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"> </a>
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
