@@ -18,9 +18,9 @@
 - ⚡ Fun fact **Oneye 😜**
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tigocode&theme=dracula&show_icons=true&hide_border=false&count_private=false" >
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=tigocode&theme=dracula&hide_border=false" >
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigocode&theme=dracula&show_icons=true&hide_border=false&layout=compact" >
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tigocode&theme=dracula&show_icons=true&hide_border=false&count_private=false" >
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=tigocode&theme=dracula&hide_border=false" >
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigocode&theme=dracula&show_icons=true&hide_border=false&layout=compact" >
 </div>
 
 ### :computer: Linguagens e Ferramentas Atuais
