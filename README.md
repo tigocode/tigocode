@@ -19,7 +19,7 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tigocode&theme=dracula&show_icons=true&hide_border=false&count_private=false" >
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?user=tigocode&theme=dracula&hide_border=false" >
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tigocode&theme=dracula&hide_border=false" >
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigocode&theme=dracula&show_icons=true&hide_border=false&layout=compact" >
 </div>
 
